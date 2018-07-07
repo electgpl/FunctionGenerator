@@ -1,8 +1,6 @@
 # Generador de Funciones con XR2206 v1.0 
 
-![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/PCB_TOP.png)
-
-![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/PCB_BOTTOM.png)
+![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Generador%20de%20Funciones.brd.png)
 
 ![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Signals.png)
 
@@ -15,7 +13,7 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
   - Preajuste de Distorsión
   - Ajuste de Amplitud
   - Ajuste de Ganancia
-  - Ajuste Fino y Grueso de Frecuencia
+  - Ajuste de Frecuencia
   - Selección de Rango de Frecuencia mediante Jumper o switch
   - Selección de salida Triangular o Senoidal mediante Jumper o switch
   - Salida BNC de 50R
