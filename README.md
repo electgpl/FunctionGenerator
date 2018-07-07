@@ -6,25 +6,25 @@
 
 ![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Signals.png)
 
-Este es un Generador de Señales discreto en base a componentes de facil adquisicion para facilitar la produccion para ser ensamblado por los estudiantes.
+Este es un Generador de Señales discreto en base a componentes de fácil adquisición para facilitar la producción para ser ensamblado por los estudiantes.
 
 ## Controles
 
   - Generador - **XR2206**
-  - Preajuste de Simetria
-  - Preajuste de Distorsion
+  - Preajuste de Simetría
+  - Preajuste de Distorsión
   - Ajuste de Amplitud
   - Ajuste de Ganancia
   - Ajuste Fino y Grueso de Frecuencia
-  - Seleccion de Rango de Frecuencia mediante Jumper o switch
-  - Seleccion de salida Triangular o Senoidal mediante Jumper o switch
+  - Selección de Rango de Frecuencia mediante Jumper o switch
+  - Selección de salida Triangular o Senoidal mediante Jumper o switch
   - Salida BNC de 50R
-  - Salida Cuadrada para Frecuencimetro y Sincronismo
+  - Salida Cuadrada para Frecuencímetro y Sincronismo
 
 ## Alimentacion
 
-> Diseñado para ser alimentado con una unica bateria de 9V
-> en su interior cuenta con una fuente con masa flotante para lograr la simetria en el amplificador operacional.
+> Diseñado para ser alimentado con una única batería de 9V
+> en su interior cuenta con una fuente con masa flotante para lograr la simetría en el amplificador operacional.
 > El amplificador operacional puede ser reemplazado por cualquiera con entrada FET (Se requiere alta impedancia).
 
 ### Diseño
