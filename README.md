@@ -2,8 +2,6 @@
 
 ![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Generador%20de%20Funciones.brd.png)
 
-![N|Solid](https://github.com/electgpl/FunctionGeneratorXR/blob/master/Preview/Generador%20de%20Funciones%20Se%C3%B1ales.png?raw=true)
-
 Este es un Generador de Señales discreto en base a componentes de fácil adquisición para facilitar la producción para ser ensamblado por los estudiantes.
 
 ## Controles
@@ -31,6 +29,13 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
 > la integración al alumno, el desarrollo del PCB en el hogar y mantener
 > el menor costo posible.
 
+### Pruebas de Señal Seno y Cuadrada
+
+![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Test/A0000DS.BMP)
+
+### Pruebas de FFT sobre Seno
+
+![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Test/A0001DS.BMP)
 
 License
 ----
