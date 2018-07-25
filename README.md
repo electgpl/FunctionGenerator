@@ -2,9 +2,13 @@
 
 ![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Generador%20de%20Funciones.brd.png)
 
+# Generador de Funciones con XR2206 v2.0 
+
+![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Generador%20de%20Funciones.brd.png)
+
 Este es un Generador de Señales discreto en base a componentes de fácil adquisición para facilitar la producción para ser ensamblado por los estudiantes.
 
-## Controles
+## Controles - v1.0
 
   - Generador - **XR2206**
   - Preajuste de Simetría
@@ -12,7 +16,20 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
   - Ajuste de Amplitud
   - Ajuste de Ganancia
   - Ajuste de Frecuencia
-  - Selección de Rango de Frecuencia mediante Jumper o switch
+  - Selección de Rango de Frecuencia mediante Jumper o switch (4 rangos)
+  - Selección de salida Triangular o Senoidal mediante Jumper o switch
+  - Salida BNC de 50R
+  - Salida Cuadrada para Frecuencímetro y Sincronismo
+  
+## Controles - v2.0
+
+  - Generador - **XR2206**
+  - Preajuste de Simetría
+  - Preajuste de Distorsión
+  - Ajuste de Amplitud
+  - ~~Ajuste de Ganancia~~
+  - Ajuste de Frecuencia
+  - Selección de Rango de Frecuencia mediante Jumper o switch ~~(4 rangos)~~ (3 rangos)
   - Selección de salida Triangular o Senoidal mediante Jumper o switch
   - Salida BNC de 50R
   - Salida Cuadrada para Frecuencímetro y Sincronismo
