@@ -18,6 +18,7 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
   - Ajuste de Frecuencia
   - Selección de Rango de Frecuencia mediante Jumper o switch (4 rangos)
   - Selección de salida Triangular o Senoidal mediante Jumper o switch
+  - Buffer de Salida
   - Salida BNC de 50R
   - Salida Cuadrada para Frecuencímetro y Sincronismo
   
@@ -31,6 +32,7 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
   - Ajuste de Frecuencia
   - Selección de Rango de Frecuencia mediante Jumper o switch ~~(4 rangos)~~ (3 rangos)
   - Selección de salida Triangular o Senoidal mediante Jumper o switch
+  - ~~Buffer de Salida~~
   - Salida BNC de 50R
   - Salida Cuadrada para Frecuencímetro y Sincronismo
 
