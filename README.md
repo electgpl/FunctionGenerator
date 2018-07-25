@@ -4,7 +4,7 @@
 
 # Generador de Funciones con XR2206 v2.0 
 
-![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Preview/Generador%20de%20Funciones.brd.png)
+![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGenerator/master/Preview/Generador%20de%20Funciones%20v2.0.jpg)
 
 Este es un Generador de Señales discreto en base a componentes de fácil adquisición para facilitar la producción para ser ensamblado por los estudiantes.
 
