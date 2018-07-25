@@ -39,8 +39,8 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
 ## Alimentacion
 
 > Diseñado para ser alimentado con una única batería de 9V
-> en su interior cuenta con una fuente con masa flotante para lograr la simetría en el amplificador operacional.
-> El amplificador operacional puede ser reemplazado por cualquiera con entrada FET (Se requiere alta impedancia).
+> en su interior cuenta con una fuente con masa flotante para lograr la simetría en el amplificador operacional (solo para v1.0).
+> El amplificador operacional puede ser reemplazado por cualquiera con entrada FET (Se requiere alta impedancia) (solo para v1.0).
 
 ### Diseño
 
