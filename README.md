@@ -59,7 +59,7 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
 Patrocinado
 ----
 
-[PCBWay]**PCBWay**
+**[PCBWay]**
 
 License
 ----
