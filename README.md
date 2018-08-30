@@ -56,6 +56,11 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
 
 ![N|Solid](https://raw.githubusercontent.com/electgpl/FunctionGeneratorXR/master/Test/A0001DS.BMP)
 
+Patrocinado
+----
+
+**PCBWay**
+
 License
 ----
 
@@ -63,3 +68,5 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+
+[PCBWay]: <https://www.pcbway.es/>
