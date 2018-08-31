@@ -61,8 +61,7 @@ Patrocinado
 
 **[PCBWay]**
 
-**Prototipos de PCB: $5 por 10 PCB y cada nuevo miembro recibirá un bono de $5.
-Servicio Express de 24 horas / 48 horas**
+![N|Solid](https://raw.githubusercontent.com/electgpl/Banners/master/12342311770334140752.png)
 
 License
 ----
