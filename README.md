@@ -60,7 +60,9 @@ Patrocinado
 ----
 
 **[PCBWay]**
-**Prototipos de PCB: $5 por 10 PCB y cada nuevo miembro recibirá un bono de $5 mas servicio Express de 24 horas / 48 horas**
+
+**Prototipos de PCB: $5 por 10 PCB y cada nuevo miembro recibirá un bono de $5.
+Servicio Express de 24 horas / 48 horas**
 
 License
 ----
