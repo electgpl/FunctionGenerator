@@ -58,10 +58,8 @@ Este es un Generador de Señales discreto en base a componentes de fácil adquis
 
 Patrocinado
 ----
+[![N|Solid](https://raw.githubusercontent.com/electgpl/Banners/master/12342311770334140752.png)](https://www.pcbway.es/)
 
-**[PCBWay]**
-
-[![N|Solid](https://raw.githubusercontent.com/electgpl/Banners/master/12342311770334140752.png)]
 
 License
 ----
@@ -71,4 +69,3 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-[![N|Solid](https://raw.githubusercontent.com/electgpl/Banners/master/12342311770334140752.png)]: <https://www.pcbway.es/>
